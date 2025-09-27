@@ -15,4 +15,4 @@ The LEDs represent a 4-bit binary number, counting up every 0.5 seconds.
 - Simple and easy-to-understand microcontroller project
 
 ## Folder Contents
-- `4bit_counter.ino` — Arduino code
+- [`4bit_counter.ino`](4bit_counter.ino) — Arduino code
