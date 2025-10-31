@@ -12,3 +12,4 @@ Arduino
 ESP32
 
 - [mpu6050-logger-(with_esp32)](mpu6050-logger-(with_esp32)/)
+- [Crash-detection-using-mpu6050](Crash-detection-using-mpu6050/)
