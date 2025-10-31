@@ -14,15 +14,15 @@ A simple Arduino project that records acceleration and gyroscope data from the M
 ### Features
 - Reads accelerometer (ax, ay, az) and gyroscope (gx, gy, gz) data  
 - Logs sensor readings every 100 ms  
-- Stores data in `DATA.csv` on the SD card  
+- Stores data in [`DATA.csv`](DATA.csv) on the SD card  
 - Easy to visualize and analyze motion data  
 
 ---
 
 ### Folder Contents
-- `motion-data-logger.ino` — Arduino code  
-- `DATA.csv` — Sample output file  
-- `README.md` — Project documentation  
+- [`motion-data-logger.ino`](motion-data-logger.in0) — Arduino code  
+- [`DATA.csv`](DATA.csv) — Sample output file  
+- [`README.md`](REDME.md) — Project documentation  
 
 ---
 
